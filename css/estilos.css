@@ -46,6 +46,11 @@ body
     color:white;
     padding: 1emm;
 }
+#equipo
+{
+    display:block;
+    margin:auto;
+    }
 #footer
 {
     background: tomato;
